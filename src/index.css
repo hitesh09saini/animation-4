@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+.rubik-mono-one-regular {
+    font-family: "Rubik Mono One", monospace;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+/* 
+.item-1{
+    animation: regular1 5s linear infinite;
+}
+
+.item-2{
+    animation: regular2 5s linear infinite;
+}
+
+.item-3{
+    animation: regular3 5s linear infinite;
+}
+
+@keyframes regular1 {
+    100%{
+        transform: translateX(-100vw);
+    }
+} */
+
+
